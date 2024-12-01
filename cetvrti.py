@@ -1,4 +1,6 @@
 
+//cetvrti zad
+
 def print_star(num):
     for i in range(num):
         print('*', end="")
@@ -7,6 +9,8 @@ def print_star(num):
 def print_space(num):
     for i in range(num):
         print(' ', end="")
+
+
 
 
 
